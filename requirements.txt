@@ -7,3 +7,4 @@ ipykernel==7.3.0
 torch==2.13.0
 torchao==0.17.0
 sentencepiece==0.2.2
+bertopic==0.17.4
