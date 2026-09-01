@@ -7,3 +7,4 @@ temp/
 out/
 __pycache__/
 .deepeval/
+.cursor/
